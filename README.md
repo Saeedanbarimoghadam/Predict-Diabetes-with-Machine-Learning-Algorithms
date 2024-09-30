@@ -5,16 +5,15 @@ Algorithms Used:
 K-Nearest Neighbors (KNN):
 
 KNN is a simple algorithm that classifies data based on the majority class among its nearest neighbors.
-Performance:
-Training accuracy: 79%
-Test accuracy: 78%
-Decision Tree Classifier:
 
-Decision trees split the data into smaller subsets based on the most important features.
-Performance:
-Training accuracy: 77.3%
-Test accuracy: 74%
+Performance: Training accuracy: 79%, Test accuracy: 78%
+
+Decision Tree Classifier: Decision trees split the data into smaller subsets based on the most important features.
+
+Performance: Training accuracy: 77.3%, Test accuracy: 74%
+
 Feature Importance: Glucose was the most important feature, followed by BMI.
+
 Neural Network (MLP Classifier):
 
 A basic neural network (MLP) was applied to the data.
